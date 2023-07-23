@@ -1,0 +1,22 @@
+/* SASS Template */
+
+/* Font Import Statement*/
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap');
+
+/*Variable File Import Statement*/
+@import './include/variable.scss';
+
+/*Global File Import Statement*/
+@import './include/global.scss';
+
+/*Typography File Import Statement*/
+@import './include/typography.scss';
+
+/*Color File Import Statement*/
+@import './include/color.scss';
+
+/*Top-Sale File Import Statement*/
+@import './include/top-sale.scss';
+
+/*special Price File Import Statement*/
+@import './include/special-price.scss';
